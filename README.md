@@ -90,3 +90,5 @@ THE SOFTWARE.
 </details>
 
 ---
+
+> Made with 💖 by Sougata Paul
