@@ -34,14 +34,14 @@ It allows you to check the current time in multiple time zones around the world,
 ```bash
 World-Clock/
 │
-├── .github/          # GitHub-specific configuration files
-├── images/           # Images used in the project
-├── index.html        # Main HTML file
-├── local.js          # JavaScript file for local time handling
-├── script.js         # Main JavaScript logic
-├── style.css         # Stylesheet
-├── LICENSE           # License file
-└── README.md         # Project documentation
+├── .github/          
+├── images/           
+├── index.html       
+├── local.js         
+├── script.js        
+├── style.css         
+├── LICENSE   
+└── README.md       
 
 ```
 ---
