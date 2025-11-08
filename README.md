@@ -9,7 +9,6 @@ It allows you to check the current time in multiple time zones around the world 
 
 - ⏰ **Real-time Clock Updates** — Displays accurate time that updates every second.
 - 🌎 **Multiple Time Zones** — View time from different countries or cities.
-- 🎨 **Responsive Design** — Works smoothly on desktop, tablet, and mobile devices.
 - ⚡ **Lightweight & Fast** — No external heavy libraries, pure JavaScript.
 - 🖌 **Custom Styling** — Easy-to-change themes and colors.
 
