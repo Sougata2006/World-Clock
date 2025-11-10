@@ -1,4 +1,4 @@
-# 🌍 World Clock Web App
+# 🌍 World Clock
 
 A simple **World Clock** built using HTML, CSS and JavaScript.  
 It allows you to check the current time in multiple time zones around the world with live updates.
