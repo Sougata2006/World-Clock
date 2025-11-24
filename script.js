@@ -33,5 +33,7 @@ function loadLocalesInComboBox() {
         let newOption = new Option(label.trim(), tz.trim());
         comboBox.add(newOption, undefined);
     });
+    
+    //Default time
     comboBox.value = 'Asia/Kolkata';
 }
