@@ -1,4 +1,7 @@
+//All time zones 
+
 export const timeZonesList = {
+
   "Africa/Abidjan": "Côte d'Ivoire",
   "Africa/Accra": "Ghana",
   "Africa/Addis_Ababa": "Ethiopia",
@@ -417,4 +420,5 @@ export const timeZonesList = {
   "Pacific/Tongatapu": "Tonga",
   "Pacific/Wake": "US minor outlying islands",
   "Pacific/Wallis": "Wallis & Futuna",
+
 };
